@@ -1,0 +1,1 @@
+import("C:/SKYE/MICA Junior/FabLab/Project 2/Export/yup2.stl", convexity = 100);
